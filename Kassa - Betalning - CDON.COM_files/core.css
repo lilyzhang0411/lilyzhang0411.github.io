@@ -1,0 +1,25 @@
+.swogo-hidden,
+.swogo-disable,
+.swogo-invisible,
+.swogo-options-box,
+.swogo-alternatives-box,
+.swogo-alternative .swogo-button-alternatives,
+.swogo-accessory .swogo-button-select-alternative {
+    display: none;
+}
+.swogo-remove {
+    opacity: 0;
+    pointer-events: none;
+}
+.swogo-hidden-overflow {
+    overflow: hidden;
+}
+.swogo-product-image {
+    opacity: 0;
+}
+.swogo-product-image.swogo-selected {
+    opacity: 1;
+}
+.swogo-enable {
+    display: block;
+}
